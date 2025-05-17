@@ -1,1 +1,2 @@
 # myph
+Simple Phishing Tool
